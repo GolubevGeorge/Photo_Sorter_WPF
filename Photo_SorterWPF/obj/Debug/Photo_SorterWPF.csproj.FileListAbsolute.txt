@@ -1,0 +1,16 @@
+c:\users\emris\documents\visual studio 2013\Projects\Photo_SorterWPF\Photo_SorterWPF\bin\Debug\Photo_SorterWPF.exe.config
+c:\users\emris\documents\visual studio 2013\Projects\Photo_SorterWPF\Photo_SorterWPF\obj\Debug\MainWindow.baml
+c:\users\emris\documents\visual studio 2013\Projects\Photo_SorterWPF\Photo_SorterWPF\obj\Debug\MainWindow.g.cs
+c:\users\emris\documents\visual studio 2013\Projects\Photo_SorterWPF\Photo_SorterWPF\obj\Debug\App.g.cs
+c:\users\emris\documents\visual studio 2013\Projects\Photo_SorterWPF\Photo_SorterWPF\obj\Debug\Photo_SorterWPF_MarkupCompile.cache
+c:\users\emris\documents\visual studio 2013\Projects\Photo_SorterWPF\Photo_SorterWPF\obj\Debug\Photo_SorterWPF.g.resources
+c:\users\emris\documents\visual studio 2013\Projects\Photo_SorterWPF\Photo_SorterWPF\obj\Debug\Photo_SorterWPF.Properties.Resources.resources
+c:\users\emris\documents\visual studio 2013\Projects\Photo_SorterWPF\Photo_SorterWPF\obj\Debug\Photo_SorterWPF.csproj.GenerateResource.Cache
+c:\users\emris\documents\visual studio 2013\Projects\Photo_SorterWPF\Photo_SorterWPF\bin\Debug\Photo_SorterWPF.exe
+c:\users\emris\documents\visual studio 2013\Projects\Photo_SorterWPF\Photo_SorterWPF\bin\Debug\Photo_SorterWPF.pdb
+c:\users\emris\documents\visual studio 2013\Projects\Photo_SorterWPF\Photo_SorterWPF\obj\Debug\Photo_SorterWPF.exe
+c:\users\emris\documents\visual studio 2013\Projects\Photo_SorterWPF\Photo_SorterWPF\obj\Debug\Photo_SorterWPF.pdb
+C:\Users\Emris\Documents\Visual Studio 2013\Projects\Photo_SorterWPF\Photo_SorterWPF\obj\Debug\Photo_SorterWPF_MarkupCompile.lref
+C:\Users\Emris\Documents\Visual Studio 2013\Projects\Photo_SorterWPF\Photo_SorterWPF\obj\Debug\Photo_SorterWPF.csprojResolveAssemblyReference.cache
+C:\Users\Emris\Documents\Visual Studio 2013\Projects\Photo_SorterWPF\Photo_SorterWPF\obj\Debug\PhotoWindow.baml
+C:\Users\Emris\Documents\Visual Studio 2013\Projects\Photo_SorterWPF\Photo_SorterWPF\obj\Debug\PhotoWindow.g.cs

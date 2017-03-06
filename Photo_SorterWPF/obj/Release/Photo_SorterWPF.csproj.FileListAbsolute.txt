@@ -1,0 +1,15 @@
+C:\Users\Emris\Documents\Visual Studio 2013\Projects\Photo_SorterWPF\Photo_SorterWPF\bin\Release\Photo_SorterWPF.exe.config
+C:\Users\Emris\Documents\Visual Studio 2013\Projects\Photo_SorterWPF\Photo_SorterWPF\bin\Release\Photo_SorterWPF.exe
+C:\Users\Emris\Documents\Visual Studio 2013\Projects\Photo_SorterWPF\Photo_SorterWPF\bin\Release\Photo_SorterWPF.pdb
+C:\Users\Emris\Documents\Visual Studio 2013\Projects\Photo_SorterWPF\Photo_SorterWPF\obj\Release\PhotoWindow.baml
+C:\Users\Emris\Documents\Visual Studio 2013\Projects\Photo_SorterWPF\Photo_SorterWPF\obj\Release\MainWindow.g.cs
+C:\Users\Emris\Documents\Visual Studio 2013\Projects\Photo_SorterWPF\Photo_SorterWPF\obj\Release\PhotoWindow.g.cs
+C:\Users\Emris\Documents\Visual Studio 2013\Projects\Photo_SorterWPF\Photo_SorterWPF\obj\Release\App.g.cs
+C:\Users\Emris\Documents\Visual Studio 2013\Projects\Photo_SorterWPF\Photo_SorterWPF\obj\Release\Photo_SorterWPF_MarkupCompile.cache
+C:\Users\Emris\Documents\Visual Studio 2013\Projects\Photo_SorterWPF\Photo_SorterWPF\obj\Release\Photo_SorterWPF_MarkupCompile.lref
+C:\Users\Emris\Documents\Visual Studio 2013\Projects\Photo_SorterWPF\Photo_SorterWPF\obj\Release\MainWindow.baml
+C:\Users\Emris\Documents\Visual Studio 2013\Projects\Photo_SorterWPF\Photo_SorterWPF\obj\Release\Photo_SorterWPF.g.resources
+C:\Users\Emris\Documents\Visual Studio 2013\Projects\Photo_SorterWPF\Photo_SorterWPF\obj\Release\Photo_SorterWPF.Properties.Resources.resources
+C:\Users\Emris\Documents\Visual Studio 2013\Projects\Photo_SorterWPF\Photo_SorterWPF\obj\Release\Photo_SorterWPF.csproj.GenerateResource.Cache
+C:\Users\Emris\Documents\Visual Studio 2013\Projects\Photo_SorterWPF\Photo_SorterWPF\obj\Release\Photo_SorterWPF.exe
+C:\Users\Emris\Documents\Visual Studio 2013\Projects\Photo_SorterWPF\Photo_SorterWPF\obj\Release\Photo_SorterWPF.pdb
